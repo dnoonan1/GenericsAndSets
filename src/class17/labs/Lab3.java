@@ -1,4 +1,4 @@
-package labs;
+package class17.labs;
 
 import common.Dog;
 import common.Employee;
